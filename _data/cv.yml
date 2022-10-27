@@ -30,6 +30,31 @@
       description:
         - Strong Fundamentals about the different of Oil and Gas Supply Chain.
         - Waterflooding study for reservoir development in Coca-Payamino field.
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Hackathon KAUST NVIDIA 2022 Winner, Accelerating Scientific applications using GPUs.
+    - year: 2022
+      items:
+        - Petrobowl Team (KAUST) - Top 3 MENA Qualifiers.
+    - year: 2022
+      items:
+        - BEST IN SHOW, Hackathon - Explainable A.I., EAGE ANNUAL 2022, Madrid-Spain.
+    - year: 2021
+      items:
+        - Third Place e-Poster competition. KAUST Research Conference - Enabling CO2 Geological Storage Within a Low-Carbon Economy
+    - year: 2020
+      items:
+        - Petrobowl Team (KAUST) - Top 3 MENA Qualifiers.
+    - year: 2016
+      items:
+        - Academic Exchange Recognition, Universidad Central del Ecuador.
+    - year: 2012-2017
+      items: 
+        - Academic Excellence Scholarship, Universidad Central del Ecuador.
+
 # - title: Experience
 #   type: time_table
 #   contents:
