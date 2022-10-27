@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RockGAN
-description: Porous media generation in 3D using WGAN-GP.
+description: 3D Porous media generation using WGAN-GP.
 img: assets/img/rockgan_logo.png
 importance: 2
 category: work
