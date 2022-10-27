@@ -31,7 +31,7 @@ Let us compare the results obtained with RockGAN and the training data of the Be
 More details about the project could be found on the following publication:
 
 ## References 
-- Mosser, L., Dubrule, O., & Blunt, M. J. (2020). Stochastic seismic waveform inversion using generative adversarial networks as a geological prior. Mathematical Geosciences, 52(1), 53-79.
+- Mosser, L., Dubrule, O., & Blunt, M. J. (2017). Reconstruction of three-dimensional porous media using generative adversarial neural networks. Physical Review E, 96(4), 043309.
 - Okabe, H., & Blunt, M. J. (2005). Pore space reconstruction using multiple-point statistics. Journal of petroleum science and engineering, 46(1-2), 121-137.
 - Karras, T., Aila, T., Laine, S., & Lehtinen, J. (2017). Progressive growing of gans for improved quality, stability, and variation. arXiv preprint arXiv:1710.10196.
 
