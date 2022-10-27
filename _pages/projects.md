@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here you can find a bried description of the projects I am involved as part of my research. 
+description: Here you can find a brief description of the projects that I am involved as part of my research. 
 nav: true
 nav_order: 2
 display_categories: [work, fun]

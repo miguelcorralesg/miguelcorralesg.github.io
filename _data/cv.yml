@@ -16,18 +16,20 @@
       year: 2022 - Present
       description:
         - Earth Sciences and Engineering Program (ErSE)
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Machine Learning Track
+        - Deep Reservoir characterization and Uncertainty Quantification from macro scale rock imaging to reservoir scale characterization using Deep Learning framework and Deep Generative Models
     - title: Master of Science
       institution: King Abdullah University of Science and Technology (KAUST), Kingdom of Saudi Arabia
       year: 2019-2021
       description:
         - Energy Resources and Petroleum Engineering Program (ERPE)
-        - Description 2.
-
+        - Assessment of CO2 storage in saline aquifers in the Unayzah Reservoir, Central Arabia, Kingdom of Saudi Arabia.
+    - title: Bachelor's degree
+      institution: Universidad Central del Ecuador (UCE), Ecuador
+      year: 2012-2017
+      description:
+        - Strong Fundamentals about the different of Oil and Gas Supply Chain.
+        - Waterflooding study for reservoir development in Coca-Payamino field.
 # - title: Experience
 #   type: time_table
 #   contents:
