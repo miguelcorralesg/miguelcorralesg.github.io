@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 Hello everyone  and welcome to my personal website :smiley: :v: !
 
 
-I am a **Ph.D. student** in Earth Science and Engineering Program specializing in `deep generative modeling` and `uncertainty quantification` for subsurface imaging applications. 
+I am a **Ph.D. student** in Earth Science and Engineering Program at King Abdullah University of Science and Technology (KAUST). My research focuses on `deep generative modeling` and `uncertainty quantification` for subsurface imaging applications. 
 
 I have demonstrated outstanding academic achievement and am highly collaborative in my research by tackling challenges to bridge deep learning and subsurface imaging. My knowledge comprehends `deep learning`, `deep generative modeling`, `uncertainty quantification `, `fluid flow in porous media`, `percolation theory`, and `inverse problems`.
 
