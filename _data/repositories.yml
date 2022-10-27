@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - miguelcorralesg
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DIG-KAUST/RockGAN
+  - DIG-KAUST/Seismic_PnP
