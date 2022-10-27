@@ -72,6 +72,7 @@
         - Fluid flow in naturally fractured reservoirs.
         - Compositional fluid flow for CO2 sequestration in geological formations. 
     - title: Deep Learning and Generative models.
+      items:
         - Supervised Learning, Unsupervised Learning.
         - Generative adversarial networks and diffusion models.
         - Explainable Artificial intelligence. 
