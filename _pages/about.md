@@ -19,7 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+
 Hello everyone  and welcome to my personal website :smiley: :v: !
+
 
 I am a **Ph.D. student** in Earth Science and Engineering Program specializing in `deep generative modeling` and `uncertainty quantification` for subsurface imaging applications. 
 
