@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: denoising
+title: Seismic PnP
+description: denoising 
 img: assets/img/7.jpg
 importance: 3
 category: work
