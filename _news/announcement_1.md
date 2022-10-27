@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-25 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Welcome to my personal website. I am currently working on it :hammer: :wrench: :bulb:

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Deep Imaging Group (DIG) |  Advanced Reservoir Modeling and Simulation Group (ARMS) @KAUST
+subtitle: <a href='#'>Affiliations</a>. Deep Imaging Group <a href='https://dig.kaust.edu.sa/'>(DIG)</a> |  Advanced Reservoir Modeling and Simulation Group <a href='https://arms.kaust.edu.sa/'>(ARMS)</a> @KAUST
 
 profile:
   align: right
