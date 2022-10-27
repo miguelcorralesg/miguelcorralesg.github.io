@@ -8,7 +8,7 @@ middle_name: A.
 last_name: Corrales
 email: miguel.corrales@kaust.edu.sa
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple website profile about my academic journey
+  A simple website about my academic journey
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
