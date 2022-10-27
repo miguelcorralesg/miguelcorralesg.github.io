@@ -1,8 +1,8 @@
 ---
 layout: page
 title: RockGAN
-description: a project with a background image
-img: assets/img/publication_preview/rockgan.gif
+description: Porous media generation in 3D using WGAN-GP.
+img: assets/img/rockgan_logo.png
 importance: 2
 category: work
 ---

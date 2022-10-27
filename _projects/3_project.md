@@ -2,7 +2,7 @@
 layout: page
 title: Seismic PnP
 description: denoising 
-img: assets/img/7.jpg
+img: assets/img/PnP_logo.png
 importance: 3
 category: work
 ---
