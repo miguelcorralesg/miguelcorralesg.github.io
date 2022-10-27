@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: RockAVO
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/publication_preview/rockavo_1.gif
 importance: 1
 category: work
 ---
