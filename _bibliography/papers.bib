@@ -3,6 +3,24 @@
 
 @string{aps = {American Physical Society,}}
 
+@inbook{doi:10.1190/image2022-3745255.1,
+author = {Corrales, M. and Izzatullah, M. and Ravasi, M. and Hoteit, H.},
+title = {Bayesian RockAVO: Direct petrophysical inversion with hierarchical conditional GANs},
+booktitle = {Second International Meeting for Applied Geoscience \&amp; Energy},
+chapter = {},
+pages = {2253-2257},
+year = {2022},
+month = {08},
+doi = {10.1190/image2022-3745255.1},
+URL = {https://library.seg.org/doi/abs/10.1190/image2022-3745255.1},
+eprint = {https://library.seg.org/doi/pdf/10.1190/image2022-3745255.1},
+html = {https://library.seg.org/doi/pdf/10.1190/image2022-3745255.1},
+preview={bayesian_rockavo.gif},
+selected={true},
+    abstract = { Reservoir characterization is a critical component in any oil and gas, geothermal, and CO2 sequestration project. A fundamental step in the process of characterizing the subsurface is represented by the inversion of petrophysical parameters from seismic data. However, this problem suffers from various uncertainty sources originating from inaccuracies in the measurements, modeling errors, and complex geological processes. Moreover, the non-linearity of the rock-physics model and Zoeppritz equation that constitute the modelling operator, further complicates the inversion process. In this work, we propose a novel data-driven approach where well-log information is used to obtain optimal basis functions that link band-limited petrophysical reflectivities to pre-stack seismic data. Subsequently, the inversion of such band-limited reflectivities for petrophysical parameters is framed in a Bayesian framework where a generative adversarial network is used to produce a geologically realistic prior distribution. The trained prior distribution is updated using the Stein Variational Gradient Descent and a set of representative solutions is produced that is consistent with the uncertainties in the data and the nonlinear operators. }
+
+}
+
 @article{eage:/content/papers/10.3997/2214-4609.202210178,
    author = "Corrales, M. and Ravasi, M. and Hoteit, H.",
    title = "Data-Driven, Direct Rock-Physics Inversion of Pre-Stack Seismic Data.", 
@@ -23,24 +41,7 @@
    html={https://www.earthdoc.org/content/papers/10.3997/2214-4609.202210178},
    abstract={The inversion of petrophysical parameters from seismic data represents a fundamental step in the reservoir characterization framework. However, the non-linearity of the rock-physics models that relate petrophysical properties to seismic pre-stack amplitudes makes such an inversion challenging. We propose a hybrid approach, where data-driven basis functions are learned from well-logs to directly link band-limited petrophysical reflectivities to pre-stack seismic data. Petrophysical parameters are subsequently obtained by means of regularized post-stack seismic inversion. By performing two modeling steps at training time and a single inversion step at inference time, our method aims to be more efficient and robust than conventional two-step inversion workflows. The proposed method is tested on a synthetic dataset from the Smeaheia reservoir model. Numerical results show that porosity is the best-inverted rock property, followed by water saturation and clay content. Moreover, the method is shown to be also applicable in the context of reservoir monitoring to invert time-lapse, pre-stack seismic data for water saturation changes.}
   }
-
-@inbook{doi:10.1190/image2022-3745255.1,
-author = {Corrales, M. and Izzatullah, M. and Ravasi, M. and Hoteit, H.},
-title = {Bayesian RockAVO: Direct petrophysical inversion with hierarchical conditional GANs},
-booktitle = {Second International Meeting for Applied Geoscience \&amp; Energy},
-chapter = {},
-pages = {2253-2257},
-year = {2022},
-month = {08},
-doi = {10.1190/image2022-3745255.1},
-URL = {https://library.seg.org/doi/abs/10.1190/image2022-3745255.1},
-eprint = {https://library.seg.org/doi/pdf/10.1190/image2022-3745255.1},
-html = {https://library.seg.org/doi/pdf/10.1190/image2022-3745255.1},
-preview={bayesian_rockavo.gif},
-selected={true},
-    abstract = { Reservoir characterization is a critical component in any oil and gas, geothermal, and CO2 sequestration project. A fundamental step in the process of characterizing the subsurface is represented by the inversion of petrophysical parameters from seismic data. However, this problem suffers from various uncertainty sources originating from inaccuracies in the measurements, modeling errors, and complex geological processes. Moreover, the non-linearity of the rock-physics model and Zoeppritz equation that constitute the modelling operator, further complicates the inversion process. In this work, we propose a novel data-driven approach where well-log information is used to obtain optimal basis functions that link band-limited petrophysical reflectivities to pre-stack seismic data. Subsequently, the inversion of such band-limited reflectivities for petrophysical parameters is framed in a Bayesian framework where a generative adversarial network is used to produce a geologically realistic prior distribution. The trained prior distribution is updated using the Stein Variational Gradient Descent and a set of representative solutions is produced that is consistent with the uncertainties in the data and the nonlinear operators. }
-
-}
+  
 
 @proceedings{10.2523/IPTC-22237-MS,
     author = {Corrales, M. and Mantilla, S. and Tasianas, A. and Hoteit, H. and Afifi, A.},
