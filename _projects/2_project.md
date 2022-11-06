@@ -5,9 +5,28 @@ description: 3D Porous media generation using WGAN-GP.
 img: assets/img/rockgan_logo.png
 importance: 2
 category: work
+
+bibliography: project_porous_media.bib
+
+toc:
+  - name: Workflow
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: Results
+    subsections:
+        -name: Real samples
+        -name: Generated samples
+  - name: Publication
+
 ---
 
-The 3D porous media generation using a Wasserstein GAN with gradient penalty **(here named as RockGAN)** was born as part of a course project at KAUST. The main inspiration comes from the novel ideal of [`Lukas Mosser `](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.043309), which consisted of applying Generative Adversarial Networks (GANs) as a new tool to generate random samples corresponding to a rock sample of interest rather than applying the conventional [`multi-point statistics`](https://www.sciencedirect.com/science/article/pii/S092041050400124X). 
+
+
+The 3D porous media generation using a Wasserstein GAN with gradient penalty **(here named as RockGAN)** was born as part of a course project at KAUST. The main inspiration comes from the novel ideal of Lukas Mosser <d-cite key="PhysRevE.96.043309"></d-cite>, which consisted of applying Generative Adversarial Networks (GANs) as a new tool to generate random samples corresponding to a rock sample of interest rather than applying the conventional [`multi-point statistics`](https://www.sciencedirect.com/science/article/pii/S092041050400124X). 
+
+
 
 ## Workflow
 Here, we take a similar but different approach. Our work is based on some key points from the paper  from Tego Karras at NVIDIA. [`Progressive Growing of GANs`](https://arxiv.org/abs/1710.10196). The main ideas are: 
