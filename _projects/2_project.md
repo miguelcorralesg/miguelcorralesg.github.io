@@ -58,7 +58,7 @@ The main workflow idea is expressed in the following figure:
 # Results
 Let us compare the results obtained with RockGAN and the training data of the Berea dataset.
 
-## Real samples Subsection 1
+## Real samples
 {% include figure.html path="assets/img/project_rockgan/training_3D_samples_cube.png" title="Training 3D samples" class="RockGAN workflow." %}
 
 ## Generated samples
