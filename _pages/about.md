@@ -25,7 +25,9 @@ Hello everyone  and welcome to my personal website :smiley: :v: !
 
 I am a **Ph.D. student** in the Earth Science and Engineering Program at King Abdullah University of Science and Technology (KAUST). My research focuses on `deep generative modeling` and `uncertainty quantification` for subsurface imaging applications. 
 
-I have demonstrated outstanding academic achievement and am highly collaborative in my research by tackling challenges to bridge deep learning and subsurface imaging. My knowledge comprehends `deep learning`, `deep generative modeling`, `uncertainty quantification `, `fluid flow in porous media`, `percolation theory`, and `inverse problems`.
+My research aims to tackle the challenges to bridge deep learning and subsurface imaging. My knowledge comprehends `deep learning`, `deep generative modeling`, `uncertainty quantification `, `fluid flow in porous media`, `percolation theory`, and `inverse problems`.
+
+<!-- I have demonstrated outstanding academic achievement and am highly collaborative in my research by tackling challenges to bridge deep learning and subsurface imaging. My knowledge comprehends `deep learning`, `deep generative modeling`, `uncertainty quantification `, `fluid flow in porous media`, `percolation theory`, and `inverse problems`. -->
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
