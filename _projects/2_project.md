@@ -23,8 +23,8 @@ toc:
     #   - name: Example Child Subsection 2
   - name: Results
     subsections:
-        -name: Real samples
-        -name: Generated samples
+      -name: Real samples
+      -name: Generated samples
   - name: Publication
 
 ---
