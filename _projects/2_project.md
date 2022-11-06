@@ -53,7 +53,7 @@ Here, we take a similar but different approach. Our work is based on some key po
 
 The main workflow idea is expressed in the following figure:
 
-{% include figure.html path="assets/img/project_rockgan/rockgan_workflow.png" title="example image" class="RockGAN workflow." %}
+{% include figure.html path="assets/img/project_rockgan/architecture.png" title="example image" class="RockGAN workflow." %}
 
 # Results
 Let us compare the results obtained with RockGAN and the training data of the Berea dataset.
