@@ -40,8 +40,13 @@ The problem to solve lies on Juan's research <d-cite key="doi:10.1190/image2022-
 After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following repository: 
 
 
-github_repos:
-  - DIG-Kaust/HPC_Hackathon_DIG -->
+```md
+[![Hackathon](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)
+```
+
+
+<!-- github_repos:
+  - DIG-Kaust/HPC_Hackathon_DIG --> -->
 
 
 # Insights and comments 
