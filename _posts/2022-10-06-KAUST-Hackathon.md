@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: KAUST-NVIDIA Hackaton 2022
+title: KAUST-NVIDIA Hackathon 2022
 date: 2022-10-06 18:00:00
 description: Accelerating Scientific Applications using GPUs
 authors:
