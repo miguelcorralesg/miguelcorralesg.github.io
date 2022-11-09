@@ -23,11 +23,11 @@ toc:
 
 # What is the KAUST-NVIDIA Hackathon?
 
-As its name suggests, it's an event organized by KAUST and NVIDIA aiming to accelerate scientific applications. The hackathon started as part of the KAUST-NVIDIA workshop in 2015. In 2022, Deep Imaging Grop members participated in the 8th competition. 
+As its name suggests, it's an event organized by KAUST and NVIDIA aiming to accelerate scientific applications. The hackathon started as part of the KAUST-NVIDIA workshop in 2015. In 2022, Deep Imaging Group members participated in the 8th competition. 
 
 # The Notorious Team
 
-The notorious team of this year was formed by 3 amazing people: From left to rigth, [Nick Luiken (Postdoc)](https://dig.kaust.edu.sa/people/detail/nick-luiken), [Juan Romero (Ms. Student)](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia), and the writer of this post [Miguel Corrales (PhD Student)](https://dig.kaust.edu.sa/people/detail/miguel-corrales). If you want to know about everyone's research, please visit the hyperlinks. 
+The notorious team of this year was formed by 3 amazing people: From left to right, [Nick Luiken (Postdoc)](https://dig.kaust.edu.sa/people/detail/nick-luiken), [Juan Romero (Ms. Student)](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia), and the writer of this post [Miguel Corrales (PhD Student)](https://dig.kaust.edu.sa/people/detail/miguel-corrales). If you want to know about everyone's research, please visit the hyperlinks. 
 
 {% include figure.html path="assets/img/Hackathon_KAUST/hackathon_kaust.jpeg" title="DIG Hackathon Team" class="KAUST-NVIDIA Hackathon" %}
 
@@ -38,7 +38,7 @@ The problem to solve lies on Juan's research <d-cite key="doi:10.1190/image2022-
 
 # Results
 
-After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following[`repository`](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)
+After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roughly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following[`repository`](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)
 
 {% include figure.html path="assets/img/Hackathon_KAUST/logo_hackathon.png" title="Github Hackathon" class="KAUST-NVIDIA Hackathon" %}
 
