@@ -1,14 +1,40 @@
 ---
-layout: page
+layout: distill
 title: Seismic PnP
-description: denoising 
+description: Plug and Play method for post-stack seismic inversion
 img: assets/img/PnP_logo.png
 importance: 3
 category: work
+date: 2022-10-31
+authors:
+  - name: Miguel Corrales
+    # url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    affiliations:
+      name: KAUST
+
+bibliography: project_pnp_seismic.bib
+toc:
+  - name: Project description
+  - name: Status and Results 
+  - name: Publications
+
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Welcome to the Seismic PnP project :v: :sunglasses:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project was born during the Machine Learning Course at KAUST by Prof. Matteo Ravasi. It was developed together with my friend and colleague [Juan Romero](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia). 
+
+# Project description
+
+The idea of this work is based on the concept of using Plug-and-Play (PnP) regularization, which suggests reinterpreting the effect of the regularizer as a denoising problem. Due to this denoising step, various statistical and deep denoisers become attractive. For this work, DnCNN (gaussian blind denoiser) and DRUNet (non-blind gaussian denoisers) are used to evaluate if we can show superior results compared to state-of-the-art regularization techniques on post-stack seismic inversion such as TV regularization. It is important to emphasize that we are not denoising the input data; the denoising is performed along the Primal-Dual algorithm. 
+
+
+# Status and Results 
+
+This new approach presented is able to outperfom the state-of-the art regularization techniques. More detailed information about the work could be found on the publication. 
+
+{% include figure.html path="assets/img/project_seismic_pnp/results.png" title="Results PnP Seismic" class="PnP Seismic Project" %}
+
+# Publications
+
+More details about the project could be found on the following publication:
