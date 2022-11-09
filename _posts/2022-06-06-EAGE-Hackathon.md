@@ -13,8 +13,7 @@ bibliography: post_KAUST-NVIDIA-Hackathon.bib
 toc:
   - name: EAGE Hackathon 2022
   - name: The SnorIAX Team
-  - name: Our approach
-  - name: Results
+  - name: Our approach and results
   - name: Insights and comments 
   - name: Illustrative experience
 
@@ -34,18 +33,25 @@ In this participation, the team was conformed of 4 KAUST students.  From left to
 
 {% include figure.html path="assets/img/Hackathon_EAGE/snorlax_team.png" title="SnorIAX Hackathon Team" class="EAGE Hackathon 2022" %}
 
-# Our approach
+Our team was named SnorIAX which intends to combine my preference for Pokemon and Explainable AI. It was a fun argument at that moment, please do not judge me :smiley:. Also the logo looks so cool :sunglasses:
 
-<!-- The problem to solve lies on Juan's research <d-cite key="doi:10.1190/image2022-3737749.1"></d-cite>. The main challenge is related to a segmentation step, where many independent bisection problems are needed to solve, which makes a perfect setting to optimize the running time performance using GPUs.  -->
-
-
-# Results
-
-<!-- After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following[`repository`](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)
-
-{% include figure.html path="assets/img/Hackathon_KAUST/logo_hackathon.png" title="Github Hackathon" class="KAUST-NVIDIA Hackathon" %} -->
+{% include figure.html path="assets/img/Hackathon_EAGE/logo_snorlax.png" title="SnorIAX Logo" class="EAGE Hackathon 2022" %}
 
 
+# Our approach and results
+
+Our work mainly consisted of two approaches to explain what 'the network is looking at'. We focused our first example on the salt segmentation problem, where we added attention maps in the output gates of a U-net.
+
+{% include figure.html path="assets/img/Hackathon_EAGE/salt_segmentation.mp4" title="UNet for salt segmentation with attention maps" class="EAGE Hackathon 2022" %}
+
+ In addition, we implemented saliency and occlusion attributes in the Discriminator of a porous media generation problem using Generative Adversarial Networks (GANs). 
+
+
+ {% include figure.html path="assets/img/Hackathon_EAGE/saliency.mp4" title="Saliency in Discriminator" class="EAGE Hackathon 2022" %}
+
+  {% include figure.html path="assets/img/Hackathon_EAGE/oclussion.mp4" title="Occlusion in Discriminator" class="EAGE Hackathon 2022" %}
+
+This briefly describes our team's results during these two exhaustive days. If you would like to know more details about our implementation and from the other groups, please feel free to visit the [`GitHub site of the competition`](https://github.com/EAGE-Annual-Hackathon/SnorIAX)
 
 # Insights and comments 
 
