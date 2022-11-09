@@ -39,7 +39,7 @@ The problem to solve lies on Juan's research <d-cite key="doi:10.1190/image2022-
 
 After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following repository: 
 
-## GitHub Repositories
+<!-- ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -50,7 +50,7 @@ After one day and a half, the team succesfully levaraged the capabilities of the
 {% endif %}
 
 github_repos:
-  - DIG-Kaust/HPC_Hackathon_DIG
+  - DIG-Kaust/HPC_Hackathon_DIG -->
 
 
 # Insights and comments 
