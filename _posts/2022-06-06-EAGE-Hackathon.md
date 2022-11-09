@@ -58,6 +58,6 @@ This briefly describes our team's results during these two exhaustive days. If y
 Being the first time participating on the Hackathon i found it as an amazing experience. It was a little bit stress during the first day due to the set up of the problem and time management. I would like to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation :sunglasses: :sunglasses: :sunglasses:.
 
 
-{% include figure.html path="assets/img/Hackathon_KAUST/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
+{% include figure.html path="assets/img/Hackathon_EAGE/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
 
 
