@@ -30,7 +30,7 @@ toc:
 
 ---
 
-
+Welcome to the RockGAN project :metal: :metal: :metal:
 
 The 3D porous media generation using a Wasserstein GAN with gradient penalty **(here named as RockGAN)** was born as part of a course project at KAUST. The main inspiration comes from the novel ideal of Lukas Mosser <d-cite key="PhysRevE.96.043309"></d-cite>, which consisted of applying Generative Adversarial Networks (GANs) as a new tool to generate random samples corresponding to a rock sample of interest rather than applying the conventional multi-point statistics <d-cite key="OKABE2005121"></d-cite>.
 
