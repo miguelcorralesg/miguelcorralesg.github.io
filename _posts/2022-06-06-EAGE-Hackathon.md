@@ -41,18 +41,15 @@ Our team was named SnorIAX which intends to combine my preference for Pokemon an
 
 Our work mainly consisted of two approaches to explain what 'the network is looking at'. We focused our first example on the salt segmentation problem, where we added attention maps in the output gates of a U-net.
 
-<video width="320" height="240" controls>
-  <source src="assets/img/Hackathon_EAGE/salt_segmentation.mp4" type="video/mp4">
-</video>
 
-{% include figure.html path="assets/img/Hackathon_EAGE/salt_segmentation.mp4" title="UNet for salt segmentation with attention maps" class="EAGE Hackathon 2022" %}
+{% include figure.html path="assets/img/Hackathon_EAGE/salt_segmentation.gif" title="UNet for salt segmentation with attention maps" class="EAGE Hackathon 2022" %}
 
  In addition, we implemented saliency and occlusion attributes in the Discriminator of a porous media generation problem using Generative Adversarial Networks (GANs). 
 
 
- {% include figure.html path="assets/img/Hackathon_EAGE/saliency.mp4" title="Saliency in Discriminator" class="EAGE Hackathon 2022" %}
+ {% include figure.html path="assets/img/Hackathon_EAGE/saliency.gif" title="Saliency in Discriminator" class="EAGE Hackathon 2022" %}
 
-  {% include figure.html path="assets/img/Hackathon_EAGE/oclussion.mp4" title="Occlusion in Discriminator" class="EAGE Hackathon 2022" %}
+  {% include figure.html path="assets/img/Hackathon_EAGE/occlusion.gif" title="Occlusion in Discriminator" class="EAGE Hackathon 2022" %}
 
 This briefly describes our team's results during these two exhaustive days. If you would like to know more details about our implementation and from the other groups, please feel free to visit the [`GitHub site of the competition`](https://github.com/EAGE-Annual-Hackathon/SnorIAX)
 
@@ -61,6 +58,6 @@ This briefly describes our team's results during these two exhaustive days. If y
 Being the first time participating on the Hackathon i found it as an amazing experience. It was a little bit stress during the first day due to the set up of the problem and time management. I would like to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation :sunglasses: :sunglasses: :sunglasses:.
 
 
-{% include figure.html path="assets/img/Hackathon_KAUST/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %} -->
+{% include figure.html path="assets/img/Hackathon_KAUST/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
 
 
