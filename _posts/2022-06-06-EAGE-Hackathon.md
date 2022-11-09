@@ -40,11 +40,9 @@ Our team was named SnorIAX which intends to combine my preference for Pokemon an
 
 Our work mainly consisted of two approaches to explain what 'the network is looking at'. We focused our first example on the salt segmentation problem, where we added attention maps in the output gates of a U-net.
 
-
 {% include figure.html path="assets/img/Hackathon_EAGE/salt_segmentation.gif" title="UNet for salt segmentation with attention maps" class="EAGE Hackathon 2022" %}
 
  In addition, we implemented saliency and occlusion attributes in the Discriminator of a porous media generation problem using Generative Adversarial Networks (GANs). 
-
 
  {% include figure.html path="assets/img/Hackathon_EAGE/saliency.gif" title="Saliency in Discriminator" class="EAGE Hackathon 2022" %}
 
@@ -55,7 +53,6 @@ This briefly describes our team's results during these two exhaustive days. If y
 # Insights and comments 
 
 BBeing the first time participating in the Hackathon, I found it a fantastic experience. It was a little bit stressful during the first day due to the problem's setup and time management. I want to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation. :sunglasses: :sunglasses: :sunglasses:.
-
 
 {% include figure.html path="assets/img/Hackathon_EAGE/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
 
