@@ -27,8 +27,7 @@ The topic of this year was Explainable Artificial Intelligence. The primary purp
 
 # The SnorIAX Team
 
-In this participation, the team was conformed of 4 KAUST students.  From left to right, [Miguel Corrales](https://dig.kaust.edu.sa/people/detail/miguel-corrales), Abdullah Alali, Danilo Chamorro, Randy Harsuko.
-
+In this participation, the team was conformed of 4 KAUST students.  From left to right, [Miguel Corrales](https://dig.kaust.edu.sa/people/detail/miguel-corrales),[Abdullah Alali](https://swagroup.kaust.edu.sa/people/detail/abdullahalali), [Danilo Chamorro](https://dig.kaust.edu.sa/people/detail/danilo-chamorro-riascos), and [Randy Harsuko](https://swagroup.kaust.edu.sa/people/detail/mochammad-randy-caesario-harsuko).
 
 {% include figure.html path="assets/img/Hackathon_EAGE/snorlax_team.png" title="SnorIAX Hackathon Team" class="EAGE Hackathon 2022" %}
 
@@ -55,7 +54,7 @@ This briefly describes our team's results during these two exhaustive days. If y
 
 # Insights and comments 
 
-Being the first time participating on the Hackathon i found it as an amazing experience. It was a little bit stress during the first day due to the set up of the problem and time management. I would like to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation :sunglasses: :sunglasses: :sunglasses:.
+BBeing the first time participating in the Hackathon, I found it a fantastic experience. It was a little bit stressful during the first day due to the problem's setup and time management. I want to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation. :sunglasses: :sunglasses: :sunglasses:.
 
 
 {% include figure.html path="assets/img/Hackathon_EAGE/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
