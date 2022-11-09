@@ -53,4 +53,5 @@ It was such a wonderful experience to participate in this event. Many thanks to 
 # Illustrative experience
 This was a post regarding the KAUST-NVIDIA Hackathon, here it is a illustrative summary related to our teamwork.   
 
+"It's gonna be easy, probably just putting our code on numba and cuda", that is what we thought :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
 {% include figure.html path="assets/img/Hackathon_KAUST/monkey-ambulance.gif" title="Summary Hackathon" class="KAUST-NVIDIA Hackathon" %}
