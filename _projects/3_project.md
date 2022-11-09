@@ -22,7 +22,8 @@ toc:
 
 Welcome to the Seismic PnP project :v: :sunglasses:
 
-This project was born during the Machine Learning Course at KAUST by Prof. Matteo Ravasi. It was developed together with my friend and colleague [Juan Romero](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia). 
+This project was born during the [Machine Learning in Geoscience Course at KAUST by Prof. Matteo Ravasi](https://github.com/DIG-Kaust/MLgeoscience). It was developed together with my friend and colleague [Juan Romero](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia). 
+
 
 # Project description
 
