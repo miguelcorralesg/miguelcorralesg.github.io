@@ -13,7 +13,7 @@ bibliography: post_KAUST-NVIDIA-Hackathon.bib
 toc:
   - name: What is the KAUST-NVIDIA Hackathon?
   - name: The Notorious Team
-  - name: The Problem to tackle
+  - name: Our approach
   - name: Results
   - name: Insights and comments 
   - name: Illustrative experience
@@ -31,14 +31,14 @@ The notorious team of this year was formed by 3 amazing people: From left to rig
 
 {% include figure.html path="assets/img/Hackathon_KAUST/hackathon_kaust.jpeg" title="DIG Hackathon Team" class="KAUST-NVIDIA Hackathon" %}
 
-# The Problem to tackle
+# Our approach
 
 The problem to solve lies on Juan's research <d-cite key="doi:10.1190/image2022-3737749.1"></d-cite>. The main challenge is related to a segmentation step, where many independent bisection problems are needed to solve, which makes a perfect setting to optimize the running time performance using GPUs. 
 
 
 # Results
 
-After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following['repository'](https://github.com/DIG-Kaust/HPC_Hackathon_DIG
+After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following[`repository`](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)
 
 {% include figure.html path="assets/img/Hackathon_KAUST/logo_hackathon.png" title="Github Hackathon" class="KAUST-NVIDIA Hackathon" %}
 
