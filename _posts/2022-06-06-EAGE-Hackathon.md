@@ -15,7 +15,6 @@ toc:
   - name: The SnorIAX Team
   - name: Our approach and results
   - name: Insights and comments 
-  - name: Illustrative experience
 
 ---
 
@@ -42,6 +41,10 @@ Our team was named SnorIAX which intends to combine my preference for Pokemon an
 
 Our work mainly consisted of two approaches to explain what 'the network is looking at'. We focused our first example on the salt segmentation problem, where we added attention maps in the output gates of a U-net.
 
+<video width="320" height="240" controls>
+  <source src="assets/img/Hackathon_EAGE/salt_segmentation.mp4" type="video/mp4">
+</video>
+
 {% include figure.html path="assets/img/Hackathon_EAGE/salt_segmentation.mp4" title="UNet for salt segmentation with attention maps" class="EAGE Hackathon 2022" %}
 
  In addition, we implemented saliency and occlusion attributes in the Discriminator of a porous media generation problem using Generative Adversarial Networks (GANs). 
@@ -55,12 +58,9 @@ This briefly describes our team's results during these two exhaustive days. If y
 
 # Insights and comments 
 
-<!-- It was such a wonderful experience to participate in this event. Many thanks to the organizers from KAUST and NVIDIA, and of course, for all the support from the mentors who constantly help along this short journey. Luckily, the team was awarded the best team in terms of computing performance.  
+Being the first time participating on the Hackathon i found it as an amazing experience. It was a little bit stress during the first day due to the set up of the problem and time management. I would like to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation :sunglasses: :sunglasses: :sunglasses:.
 
-{% include figure.html path="assets/img/Hackathon_KAUST/hackathon_kaust_2.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %} -->
 
-# Illustrative experience
-<!-- This was a post regarding the KAUST-NVIDIA Hackathon, here it is a illustrative summary related to our teamwork.   
+{% include figure.html path="assets/img/Hackathon_KAUST/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %} -->
 
-"It's gonna be easy, probably just putting our code on numba and cuda", that is what we thought :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
-{% include figure.html path="assets/img/Hackathon_KAUST/monkey-ambulance.gif" title="Summary Hackathon" class="KAUST-NVIDIA Hackathon" %} -->
+
