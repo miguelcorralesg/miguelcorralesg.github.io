@@ -51,6 +51,6 @@ It was such a wonderful experience to participate in this event. Many thanks to 
 {% include figure.html path="assets/img/Hackathon_KAUST/hackathon_kaust_2.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
 
 # Illustrative experience
-This was a post regarding the KAUST-NVIDIA Hackathon, here it is a illustrative summary related to the our teamwork.   
+This was a post regarding the KAUST-NVIDIA Hackathon, here it is a illustrative summary related to our teamwork.   
 
 {% include figure.html path="assets/img/Hackathon_KAUST/monkey-ambulance.gif" title="Summary Hackathon" class="KAUST-NVIDIA Hackathon" %}
