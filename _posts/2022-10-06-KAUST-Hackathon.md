@@ -16,6 +16,7 @@ toc:
   - name: The Problem to tackle
   - name: Results
   - name: Insights and comments 
+  - name: Illustrative experience
 
 ---
 
@@ -37,18 +38,19 @@ The problem to solve lies on Juan's research <d-cite key="doi:10.1190/image2022-
 
 # Results
 
-After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following repository. 
+After one day and a half, the team succesfully levaraged the capabilities of the algorithm. Roghly speaking, the team speed up the computation by 80 times. The code of the hackathon could be find in the following['repository'](https://github.com/DIG-Kaust/HPC_Hackathon_DIG
 
-[![Hackathon](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)](https://github.com/DIG-Kaust/HPC_Hackathon_DIG)
+{% include figure.html path="assets/img/Hackathon_KAUST/logo_hackathon.png" title="Github Hackathon" class="KAUST-NVIDIA Hackathon" %}
 
-
-
-<!-- github_repos:
-  - DIG-Kaust/HPC_Hackathon_DIG --> -->
 
 
 # Insights and comments 
 
-This a post regarding the KAUST-NVIDIA Hackathon, here it is a illustrative summary of the competition: 
+It was such a wonderful experience to participate in this event. Many thanks to the organizers from KAUST and NVIDIA, and of course, for all the support from the mentors who constantly help along this short journey. Luckily, the team was awarded the best team in terms of computing performance.  
+
+{% include figure.html path="assets/img/Hackathon_KAUST/hackathon_kaust_2.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
+
+# Illustrative experience
+This was a post regarding the KAUST-NVIDIA Hackathon, here it is a illustrative summary related to the our teamwork.   
 
 {% include figure.html path="assets/img/Hackathon_KAUST/monkey-ambulance.gif" title="Summary Hackathon" class="KAUST-NVIDIA Hackathon" %}
