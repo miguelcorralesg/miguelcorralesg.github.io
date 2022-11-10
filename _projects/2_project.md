@@ -34,8 +34,8 @@ Welcome to the RockGAN project :metal: :metal: :metal:
 
 The 3D porous media generation using a Wasserstein GAN with gradient penalty **(here named as RockGAN)** was born as part of a course project at KAUST. The main inspiration comes from the novel ideal of Lukas Mosser <d-cite key="PhysRevE.96.043309"></d-cite>, which consisted of applying Generative Adversarial Networks (GANs) as a new tool to generate random samples corresponding to a rock sample of interest rather than applying the conventional multi-point statistics <d-cite key="OKABE2005121"></d-cite>.
 
-# What will you find here?
-The reader will find a short description of the project delivered in a friendly way and a nutshell. For more technical details, we suggest reading the conference paper submitted, which also contains the GitHub repository. For this project, we simply started trying to produce quality samples in 2D for the Berea and Beadpack dataset. The architecture was slightly different from what you will see in the upcoming sections. However, there is no so much attention if only 2D samples are reproduced. In this study, we satisfy the following questions: 
+# What will you find here? 
+The reader will find a short description of the project delivered in a friendly way and a nutshell. For more technical details, we suggest reading the conference paper submitted <d-cite key="eage:/content/papers/10.3997/2214-4609.2022616005"></d-cite> , which also contains the GitHub repository. For this project, we simply started trying to produce quality samples in 2D for the Berea and Beadpack dataset. The architecture was slightly different from what you will see in the upcoming sections. However, there is no so much attention if only 2D samples are reproduced. In this study, we satisfy the following questions: 
 - How should we create our dataset? 
 - What kind of architecture should we implement?
 - What loss function is more suitable?
@@ -66,6 +66,7 @@ Let us compare the results obtained with RockGAN and the training data of the Be
 
 # Publication
 More details about the project could be found on the following publication:
+[RockGAN](https://www.earthdoc.org/content/papers/10.3997/2214-4609.2022616005). 
 
 
 
