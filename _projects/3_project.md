@@ -27,7 +27,7 @@ This project was born during the [Machine Learning in Geoscience Course at KAUST
 
 # Project description
 
-The idea of this work is based on the concept of using Plug-and-Play (PnP) regularization, which suggests reinterpreting the effect of the regularizer as a denoising problem. Due to this denoising step, various statistical and deep denoisers become attractive. For this work, DnCNN (gaussian blind denoiser) and DRUNet (non-blind gaussian denoisers) are used to evaluate if we can show superior results compared to state-of-the-art regularization techniques on post-stack seismic inversion such as TV regularization. It is important to emphasize that we are not denoising the input data; the denoising is performed along the Primal-Dual algorithm. 
+The idea of this work is based on the concept of using Plug-and-Play (PnP) regularization, which suggests reinterpreting the effect of the regularizer as a denoising problem. Due to this denoising step, various statistical and deep denoisers become attractive. For this work, DnCNN (gaussian blind denoiser) and DRUNet (non-blind gaussian denoisers) are used to evaluate if we can show superior results compared to state-of-the-art regularization techniques on post-stack seismic inversion such as TV regularization. It is important to emphasize that we are not denoising the input data; the denoising is performed along the Primal-Dual algorithm <d-cite key="eage:/content/papers/10.3997/2214-4609.2022616015"></d-cite>. 
 
 
 # Status and Results 
@@ -39,3 +39,4 @@ This new approach presented is able to outperfom the state-of-the art regulariza
 # Publications
 
 More details about the project could be found on the following publication:
+[PnP Seismic](https://www.earthdoc.org/content/papers/10.3997/2214-4609.2022616015). 
