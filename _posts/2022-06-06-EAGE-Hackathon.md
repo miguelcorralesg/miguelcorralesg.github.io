@@ -15,6 +15,7 @@ toc:
   - name: The SnorIAX Team
   - name: Our approach and results
   - name: Insights and comments 
+  - name: Interview 
 
 ---
 
@@ -56,4 +57,9 @@ BBeing the first time participating in the Hackathon, I found it a fantastic exp
 
 {% include figure.html path="assets/img/Hackathon_EAGE/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
 
+
+# Interview
+Thanks a lot to Ruslan Miftakhov, we have such a great time on it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AsOCNFj60CE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
