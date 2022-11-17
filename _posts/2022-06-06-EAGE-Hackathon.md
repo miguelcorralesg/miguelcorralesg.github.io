@@ -19,7 +19,7 @@ toc:
 
 ---
 
-Hello everybody, welcome to a new post.  This post is related to my first participation in a Hackathon in Madrid, Spain, as part of the EAGE 2022 Annual exhibition. 
+Hello everybody, welcome to a new post.  It is related to my first participation in a Hackathon in Madrid-Spain :es: as part of the EAGE 2022 Annual exhibition. 
 
 # EAGE Hackathon 2022
 
@@ -28,11 +28,11 @@ The topic of this year was Explainable Artificial Intelligence. The primary purp
 
 # The SnorIAX Team
 
-In this participation, the team was conformed of 4 KAUST students.  From left to right, [Miguel Corrales](https://dig.kaust.edu.sa/people/detail/miguel-corrales),[Abdullah Alali](https://swagroup.kaust.edu.sa/people/detail/abdullahalali), [Danilo Chamorro](https://dig.kaust.edu.sa/people/detail/danilo-chamorro-riascos), and [Randy Harsuko](https://swagroup.kaust.edu.sa/people/detail/mochammad-randy-caesario-harsuko).
+In this participation, the team was composed of 4 KAUST students.  From left to right, [Miguel Corrales](https://dig.kaust.edu.sa/people/detail/miguel-corrales),[Abdullah Alali](https://swagroup.kaust.edu.sa/people/detail/abdullahalali), [Danilo Chamorro](https://dig.kaust.edu.sa/people/detail/danilo-chamorro-riascos), and [Randy Harsuko](https://swagroup.kaust.edu.sa/people/detail/mochammad-randy-caesario-harsuko).
 
 {% include figure.html path="assets/img/Hackathon_EAGE/snorlax_team.png" title="SnorIAX Hackathon Team" class="EAGE Hackathon 2022" %}
 
-Our team was named SnorIAX which intends to combine my preference for Pokemon and Explainable AI. It was a fun argument at that moment, please do not judge me :smiley:. Also the logo looks so cool :sunglasses:
+Our team was named SnorIAX, which intends to combine my preference for Pokemon and Explainable AI. It was a fun argument at that moment; please do not judge me :smiley:. Also, the logo looks so cool :sunglasses:
 
 {% include figure.html path="assets/img/Hackathon_EAGE/logo_snorlax.png" title="SnorIAX Logo" class="EAGE Hackathon 2022" %}
 
@@ -53,7 +53,7 @@ This briefly describes our team's results during these two exhaustive days. If y
 
 # Insights and comments 
 
-BBeing the first time participating in the Hackathon, I found it a fantastic experience. It was a little bit stressful during the first day due to the problem's setup and time management. I want to express my gratitude to all the sponsors, organizers, and mentors. We had the great pleasure of being selected as the BEST IN SHOW. What a fantastic day to close our first participation. :sunglasses: :sunglasses: :sunglasses:.
+Being the first time participating in the Hackathon, I found it a fantastic experience. The first day was a bit stressful due to the problem's setup and time management. I want to thank all the sponsors, organizers, and mentors. It was such an honor to be selected as the BEST IN SHOW. What a fantastic day to close our first participation. :sunglasses: :sunglasses: :sunglasses:
 
 {% include figure.html path="assets/img/Hackathon_EAGE/price_photo.jpeg" title="Price" class="KAUST-NVIDIA Hackathon" %}
 
