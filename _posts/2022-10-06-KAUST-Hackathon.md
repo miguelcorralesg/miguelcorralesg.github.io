@@ -27,7 +27,7 @@ As its name suggests, it's an event organized by KAUST and NVIDIA aiming to acce
 
 # The Notorious Team
 
-The notorious team of this year was formed by 3 amazing people: From left to right, [Nick Luiken (Postdoc)](https://dig.kaust.edu.sa/people/detail/nick-luiken), [Juan Romero (Ms. Student)](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia), and the writer of this post [Miguel Corrales (PhD Student)](https://dig.kaust.edu.sa/people/detail/miguel-corrales). If you want to know about everyone's research, please visit the hyperlinks. 
+The notorious team of this year was formed by 3 amazing people: From left to right, [Nick Luiken (Postdoc)](https://dig.kaust.edu.sa/people/detail/nick-luiken), [Juan Romero (Ms. Student)](https://dig.kaust.edu.sa/people/detail/juan-romero-murcia), and the writer of this post [Miguel Corrales (PhD Student)](https://dig.kaust.edu.sa/people/detail/miguel-corrales). If you want to know about everyone's research, please visit the attached links.
 
 {% include figure.html path="assets/img/Hackathon_KAUST/hackathon_kaust.jpeg" title="DIG Hackathon Team" class="KAUST-NVIDIA Hackathon" %}
 
