@@ -35,6 +35,9 @@ The idea of this work is based on the concept of using Plug-and-Play (PnP) regul
 This new approach presented is able to outperfom the state-of-the art regularization techniques. More detailed information about the work could be found on the publication. 
 
 {% include figure.html path="assets/img/project_seismic_pnp/results.png" title="Results PnP Seismic" class="PnP Seismic Project" %}
+<div class="caption">
+    Results obtained with the proposed approach and compared to state-of-the-art inversion procedures.
+</div>
 
 # Publications
 
