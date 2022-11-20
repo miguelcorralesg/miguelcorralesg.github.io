@@ -3,7 +3,6 @@ layout: distill
 title: KAUST-NVIDIA Hackathon 2022
 date: 2022-10-06 18:00:00
 description: Accelerating Scientific Applications using GPUs
-comments: true 
 authors:
   - name: Miguel Corrales
     # url: "https://en.wikipedia.org/wiki/Albert_Einstein"
