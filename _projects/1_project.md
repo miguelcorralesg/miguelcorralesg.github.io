@@ -62,5 +62,9 @@ As part of this project, we have presented two conference papers.  You can have 
 
 # News
 
+Presenting RockGAN at the EAGE 2022 
+{% linkedin https://www.linkedin.com/posts/matteo-ravasi-54b00638_eage-kaust-dig-activity-6941302583395270656-WKfJ?utm_source=share&utm_medium=member_desktop %}
+
+
 Presenting Bayesian RockGAN at SEG 2022
 {% twitter https://twitter.com/KAUST_ErSE/status/1566698809157210115 %}
