@@ -20,6 +20,7 @@ toc:
   - name: Status of the Project
   - name: What is coming?
   - name: Publications
+  - name: News
 
 
 ---
@@ -58,3 +59,8 @@ As part of this project, we have presented two conference papers.  You can have 
 
   - [`Data-Driven, Direct Rock-Physics Inversion of Pre-Stack Seismic Data`](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202210178)
   - [`Bayesian RockAVO: Direct petrophysical inversion with hierarchical conditional GANs`](https://onepetro.org/SEGAM/proceedings/IMAGE22/1-IMAGE22/D011S117R003/512785)
+
+# News
+
+Presenting Bayesian RockGAN at SEG 2022
+{% twitter https://twitter.com/KAUST_ErSE/status/1566698809157210115 %}
